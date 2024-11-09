@@ -10,7 +10,7 @@ function setup() {
   background(220);
   textSize(16);
 
-  let mWords = mString.split(" ");
+  let mWords = mString.split(" ");//空格
   //print(mString, mString.length, mString.toLowerCase());
 
   print(mWords);
